@@ -1,3 +1,0 @@
-C:/Users/USER/Desktop/programs/cpp/lambda-NFA to DFA/cmake-build-debug/CMakeFiles/lambda_NFA_to_DFA.dir
-C:/Users/USER/Desktop/programs/cpp/lambda-NFA to DFA/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/USER/Desktop/programs/cpp/lambda-NFA to DFA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
